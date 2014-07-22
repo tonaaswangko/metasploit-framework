@@ -209,6 +209,7 @@ avs = %W{
   gmt.exe
   guard.exe
   guarddog.exe
+  gziface.exe
   hacktracersetup.exe
   hbinst.exe
   hbsrv.exe
